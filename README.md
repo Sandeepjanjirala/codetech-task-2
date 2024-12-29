@@ -4,12 +4,15 @@ ID:CT12EVW
 Domain:Python programming                                                                                                                        
 Duration:Dec 20 to Feb 20                                                                                                                                                                           
 Mentor:Neela Santhosh Kumar                                                                                                                                                                                                                                                                                                                                                                                                                    
+
 Overview of the project
+
 Student Grade Tracker
 
 Objective
 
 The objective of this student grades management program is to allow users to easily input and track grades for different subjects, calculate the average grade, and display the overall grade along with the corresponding letter grade and GPA. It aims to provide a simple yet effective tool for managing and summarizing student performance. This program also serves as an educational example for learning basic Python programming concept.
+
 
 Key Activities
 
