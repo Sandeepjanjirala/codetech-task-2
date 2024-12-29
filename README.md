@@ -1,9 +1,10 @@
+
 Name:Sandeep Janjirala                                                                                                                                                                            
 Company:CODTECH IT SOLUTIONS                                                                                                                                                        
 ID:CT12EVW                                                                                                                                                                                                      
-Domain:Python programming                                                                                                                        
-Duration:Dec 20 to Feb 20                                                                                                                                                                           
-Mentor:Neela Santhosh Kumar                                                                                                                                                                                                                                                                                                                                                                                                                    
+Domain:Python programming                                                                                                                                                                                          Duration:Dec 20 to Feb 20                                                                                                                                                                           
+Mentor:Neela Santhosh Kumar                                                                                                                                                                                         
+                                                                                                                                                                                                       
 
 Overview of the project
 
